@@ -53,7 +53,7 @@ $(document).ready(function() {
 		}, 'operational');
 
 		if (!$('#panel').data('incident')) {
-			$('#panel').attr('class', (status === 'operational' ? 'panel-success' : 'panel-warning') );
+			$('#panel').attr('class', (status === 'operational' ? 'panel-info' : 'panel-warning') );
 			$('#paneltitle').html(status === 'operational' ? 'All systems are operational.' : 'One or more systems inoperative');
 		}
 		data.monitors.forEach(function(item) {
