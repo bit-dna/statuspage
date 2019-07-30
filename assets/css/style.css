@@ -1,5 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,700italic,400,300,700");
-
+@import url("https://fonts.googleapis.com/css?family=Product+Sans:100,100i,300,300i,400,400i,500,500i,700,700i,900,900");
 .timeline-centered .timeline-entry .timeline-entry-inner:after,
 .timeline-centered .timeline-entry:after,
 .timeline-centered:after {
@@ -226,7 +225,7 @@ img {
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label h2,
 .timeline-centered .timeline-entry .timeline-entry-inner .timeline-label p {
     color: #737881;
-    font-family: "Noto Sans", sans-serif;
+    font-family: 'Product Sans', sans-serif;
     font-size: 12px;
     margin: 0;
     line-height: 1.428571429
