@@ -87,7 +87,7 @@ $(document).ready(function() {
 
 			if (issue.state === 'open') {
 				$('#panel').data('incident', 'true');
-				$('#panel').attr('class', (status === 'operational' ? 'panel-success' : 'panel-warn') );
+				$('#panel').attr('class', (status === 'operational' ? 'panel-info' : 'panel-warn') );
 				$('#paneltitle').html('<a href="#incidents">' + issue.title + '</a>');
 			}
 
