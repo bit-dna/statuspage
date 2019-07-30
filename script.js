@@ -10,7 +10,7 @@ $(document).ready(function() {
 		},
 		github: {
 			org: 'bit-dna',
-			repo: 'status'
+			repo: 'statuspage'
 		}
 	};
 
