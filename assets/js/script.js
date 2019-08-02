@@ -2,14 +2,14 @@ $(document).ready(function() {
 	var config = {
 		uptimerobot: {
 			api_keys: [
-				"m783128505-fd9d5432f1ad9ce97525ee17",
-				"m783128519-b856605bb347d40c8c7395b9",
-				"m783128516-9e7387c3ffa9ed159773d19d",
-				"m783183497-5dd7a98e1e15d237020f0a20",
-				"m783185922-299c1220b95555a1286ae0d7",
-				"m783193371-e407609d03ad5497b8eaea05",
-				"m783194034-4aa7ef5e9967a3d76d1f4eba",
-				"m783208432-36c6bdf1e09a898cd9b17c3c"
+				"m783208705-825333ce33d732cf51b4e63f", //SG LB-1
+				"m783208432-36c6bdf1e09a898cd9b17c3c", // SG LB-2
+				"m783208690-39983d54399b5fb3c0e7d36a", //SG LB-3
+				"m783128516-9e7387c3ffa9ed159773d19d", // WS2
+				"m783183497-5dd7a98e1e15d237020f0a20", // WS3
+				"m783128505-fd9d5432f1ad9ce97525ee17", // BITDNA WS
+				"m783128519-b856605bb347d40c8c7395b9", // OKANEMO WS
+				"m783185922-299c1220b95555a1286ae0d7" // BITDNA BLOG
 			],
 			logs: 1
 		},
