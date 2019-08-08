@@ -2,9 +2,8 @@ $(document).ready(function() {
 	var config = {
 		uptimerobot: {
 			api_keys: [
-				"m783208705-825333ce33d732cf51b4e63f", //SG LB-1
-				"m783208432-36c6bdf1e09a898cd9b17c3c", // SG LB-2
-				"m783208690-39983d54399b5fb3c0e7d36a", //SG LB-3
+				"m783241328-de799bcc53977cd36d8fae94", //DNS-1
+				"m783241331-bd4a3e3295f8136542c51a6f", //DNS-2
 				"m783128516-9e7387c3ffa9ed159773d19d", // WS2
 				"m783183497-5dd7a98e1e15d237020f0a20", // WS3
 				"m783128505-fd9d5432f1ad9ce97525ee17", // BITDNA WS
